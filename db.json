@@ -1,0 +1,88 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Ankit Tiwari",
+      "gender": "Male",
+      "contactPreference": "Email",
+      "phoneNumber": 9897975342,
+      "email": "abc@gmail.com",
+      "dateOfBirth": "01/09/1996",
+      "department": "4",
+      "isActive": true,
+      "photoPath": "assets/images/2.png"
+    },
+    {
+      "id": 2,
+      "name": "Ankit",
+      "gender": "Male",
+      "contactPreference": "Email",
+      "phoneNumber": 9897975342,
+      "email": "abc@gmail.com",
+      "dateOfBirth": "01/09/1996",
+      "department": "4",
+      "isActive": true,
+      "photoPath": "assets/images/2.png"
+    },
+    {
+      "id": 3,
+      "name": "Pragim Technologies",
+      "gender": "male",
+      "contactPreference": "email",
+      "phoneNumber": "7071843643",
+      "email": "ankit@gmail.com",
+      "dateOfBirth": "2018-12-12T18:30:00.000Z",
+      "department": "2",
+      "isActive": true,
+      "photoPath": null
+    },
+    {
+      "id": 4,
+      "name": "Pragim Technologies",
+      "gender": "male",
+      "contactPreference": "email",
+      "phoneNumber": "7071843643",
+      "email": "ankit@gmail.com",
+      "dateOfBirth": "2018-12-12T18:30:00.000Z",
+      "department": "2",
+      "isActive": true,
+      "photoPath": null
+    },
+    {
+      "id": 5,
+      "name": "Pragim Technologies",
+      "gender": "male",
+      "contactPreference": "email",
+      "phoneNumber": "7071843643",
+      "email": "ankit@gmail.com",
+      "dateOfBirth": "2018-12-09T18:30:00.000Z",
+      "department": "2",
+      "isActive": true,
+      "photoPath": null
+    },
+    {
+      "id": 6,
+      "name": "Pragim Technologies",
+      "gender": null,
+      "contactPreference": null,
+      "phoneNumber": null,
+      "email": "",
+      "dateOfBirth": null,
+      "department": "select",
+      "isActive": null,
+      "photoPath": null
+    },
+    {
+      "id": 7,
+      "name": null,
+      "gender": null,
+      "contactPreference": null,
+      "phoneNumber": null,
+      "email": "",
+      "dateOfBirth": null,
+      "department": "select",
+      "isActive": null,
+      "photoPath": null
+    }
+  ]
+}
